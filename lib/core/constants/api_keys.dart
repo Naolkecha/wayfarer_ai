@@ -1,6 +1,6 @@
 class ApiKeys {
   // Gemini AI API Key for itinerary generation
-  static const String geminiApiKey = 'AIzaSyDqx0pIFPPFlh-fKFxj3aOJlM-lqRuVQj4';
+  static const String geminiApiKey = "YOUR_GEMINI_API_KEY"
   
   // Google Maps & OpenWeather APIs not available
   // Using AI-generated location data and weather recommendations instead
